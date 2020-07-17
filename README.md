@@ -3,11 +3,11 @@ Convenient tools
 
 ---
 ### easy_git.sh
-- feature
+- features
     - auto install some packages for check and format commit-msg 
-- require
+- requirements 
     - yarn
-- reference
+- references
     - https://github.com/commitizen/cz-cli
 
 
